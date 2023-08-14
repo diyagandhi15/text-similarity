@@ -1,0 +1,9 @@
+The source bodies of text that we chose are poems written by Edgar Allan Poe and Shel Silverstein. The new texts that we chose to compare against the sources were another Poe and Silverstein text as well as an essay that Diya wrote for her SS201 class about the Chinese Communist Party and the lyrics to "Texts Go Green" by Drake. 
+
+The results from our comparisons were:
+drake is more likely to have come from silverstein_og
+diya is more likely to have come from poe_og
+poe is more likely to have come from poe_og
+silverstein is more likely to have come from silverstein_og
+
+We think that our text classification works well enough to identify that two different works are from the same author. However due to the some errors in the program the words dictionary sometimes cuts off a letter and doesn't identify all the words perfectly. It could be improved by adding more methods in order to determine the similarity, as well as maybe using weighted sum instead to determine which parts are more important in determining the similarity.
